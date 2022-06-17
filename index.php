@@ -1,10 +1,4 @@
-<?php include 'connect.php'; ?>
-<?php
-$sql = "SELECT * from rekomendasi";
-$result = $conn->query($sql);
 
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
